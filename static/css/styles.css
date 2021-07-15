@@ -49,9 +49,7 @@ hr{
   height: 250px;
   object-fit: fit;
 }
-/****************
-** search from **
-****************/
+
 .searchform{
   background-color: transparent;
 }
