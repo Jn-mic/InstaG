@@ -42,7 +42,6 @@ After extracting the files,
 * Git
 * heroku
 ## User Stories
-* 
 
 ## BDD(Behaviour Driven Development)
 >Search photo
