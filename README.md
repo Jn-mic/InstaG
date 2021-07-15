@@ -45,13 +45,9 @@ After extracting the files,
 * 
 
 ## BDD(Behaviour Driven Development)
->Search 
+>Search photo
 
-| Inputs |  Description |login
-
-
-
-## License
+| Inputs |  Bio, caption |sign up & login
 > MIT License &copy; 2021 Jack  Owuor.
 
 ## Collaborate
