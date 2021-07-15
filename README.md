@@ -40,7 +40,7 @@ After extracting the files,
 * Css
 * Bootstrap
 * Git
-*heroku
+* heroku
 ## User Stories
 * 
 
