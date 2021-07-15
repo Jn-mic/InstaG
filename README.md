@@ -1,5 +1,5 @@
 # Instagram Project
-Instagram clone is an app where user can sign up , login,create an account, update their profile, leave comments, share photos and image, like other users posts and profile.
+Instagram clone is an app where user can sign up , login,create an account, update their profile,folow, unfolow, leave comments, share photos and image, like other users posts and profile.User can also view profile of other user/s.
 ## Author
 >  Jack Owuor.
 
