@@ -1,0 +1,3 @@
+Vipi {{name}}!
+
+Welcome to the  Boychild Instagram-Clone Community.
