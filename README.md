@@ -44,7 +44,7 @@ After extracting the files,
 ## User Stories
 
 ## BDD(Behaviour Driven Development)
->Search photo
+> Search user.
 
 | Inputs |  Bio, caption |sign up & login
 > MIT License &copy; 2021 Jack  Owuor.
